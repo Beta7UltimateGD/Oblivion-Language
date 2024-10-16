@@ -1,4 +1,4 @@
-Example:
+# Example:
 def color
 color = 
 [{
@@ -72,4 +72,4 @@ color =
     colorid = letter ("-2")
     ("-2") = id (5, 6, 7, 8, 9, 10, 11, 12)
 [{
-    Just a test. It will not run on Python compiler. SO DON'T CONFUSE IT AS PYTHON CODE
+   # Just a test. It will not run on Python compiler. SO DON'T CONFUSE IT AS PYTHON CODE
